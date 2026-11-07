@@ -60,6 +60,11 @@ Key settings can be adjusted near the top of `floating_lyrics.py`:
 - Per-song timing offsets are also saved into the local cache.
 - Spotify desktop app must be running; playback data is read through Windows Media Control.
 
+
+## Acknowledgements
+   - Developed with the help of Claude (Anthropic) and Antigravity (Google).
+
+
 ## Disclaimer
 
 Not affiliated with Spotify. Lyrics belong to their respective owners.
